@@ -1,0 +1,27 @@
+#Médias 
+Idade média: 36
+Renda mensal média: R$ 7182,00
+Tempo médio como clientes: 26,3m
+Limite médio cartão: R$4635,00
+Valor gasto médio mensal: R$716,60
+Frequência média de compras mensais: 2.7
+QTD benefícios utilzados: 1.7
+Atraso no pagamento nos ultimos 6 meses: 1
+Score: 683
+Num reclamações: 0.4
+
+30 clientes mantiveram o cartão, 20 cancelaram. Sendo assim, 40% dos clientes cancelaram os cartões.
+
+1. A maioria dos clientes que cancelaram o cartão tem entre 25 a 29 anos. 55%
+2. A maioria de clientes que cancelaram o cartão são do sexo masculino. 65%
+3. Todos os clientes que cancelaram o cartão são solteiros. 100%
+4. As cidades com maior número de cancelamento são: Belo Horizonte, Brasília e Fortaleza que representam 60% da taxa de cancelamento e Florianópolis representa 15% dessa taxa, as demais cidades representam 25%
+5. Todos os clientes que cancelaram o cartão ganhavam entre 1.5 a 4 salários mínimos (ano 2025)
+6. 80% (16) dos clientes que cancelaram o cartão tinham menos de um ano de uso. 
+7. Todos os clientes que cancelaram o cartão tinham o limite de até R$3900
+8. Todos os clientes que cancelaram o cartão gastavam menos de R$ 500 ao mês.
+9. Todos os clientes que cancelaram o cartão faziam apenas uma ou duas compras mensais.
+10. 80% (16) dos clientes que cancelaram o cartão não usavam os seus benefícios.
+11. Todos os clientes que cancelaram o cartão, atrasaram o pagamento nos últimos 6 meses pelo menos uma vez.
+12. Todos os clientes que cancelaram o cartão tem um score de crédito inferior a 700.
+13. 65% (13) dos clientes que cancelaram o cartão fizeram ao menos uma reclamação.

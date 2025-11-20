@@ -1,0 +1,51 @@
+cliente_id,idade,sexo,estado_civil,cidade,renda_mensal,profissao,tempo_cliente_meses,limite_cartao,valor_gasto_medio_mensal,frequencia_compras_mensal,utiliza_beneficios,quantidade_beneficios_utilizados,atraso_pagamentos_6meses,score_credito,numero_reclamacoes,cancelou_cartao
+1,35,F,Casada,São Paulo,7500,Analista,24,5000,850,3,Sim,2,0,780,0,Não
+2,28,M,Solteiro,Rio de Janeiro,4500,Designer,6,2000,280,1,Não,0,2,620,1,Sim
+3,42,F,Casada,Belo Horizonte,12000,Gerente,48,8000,1200,4,Sim,3,0,820,0,Não
+4,23,F,Solteira,Porto Alegre,3000,Estudante,3,1000,150,2,Não,0,1,580,0,Sim
+5,55,M,Casado,Brasília,15000,Diretor,60,10000,1800,5,Sim,4,0,850,0,Não
+6,31,M,Solteiro,Salvador,3800,Vendedor,12,2500,320,2,Sim,1,3,590,2,Sim
+7,29,F,Casada,Florianópolis,6800,Engenheira,18,4000,720,3,Sim,2,0,710,0,Não
+8,45,M,Divorciado,Recife,9200,Consultor,36,6000,980,3,Sim,3,1,680,1,Não
+9,26,F,Solteira,Fortaleza,3500,Assistente,4,1500,180,1,Não,0,4,540,1,Sim
+10,38,M,Casado,Curitiba,11000,Coordenador,30,7000,1100,4,Sim,3,0,760,0,Não
+11,33,F,Solteira,São Paulo,5200,Professora,15,3500,480,2,Sim,1,0,690,0,Não
+12,41,M,Casado,Rio de Janeiro,8800,Medico,42,6500,890,3,Sim,2,0,740,0,Não
+13,22,M,Solteiro,Belo Horizonte,2500,Estagiario,2,800,120,1,Não,0,2,560,0,Sim
+14,47,F,Divorciada,Porto Alegre,9500,Empresaria,54,7500,1300,4,Sim,3,0,790,0,Não
+15,30,M,Solteiro,Brasília,4200,Analista,8,2200,310,2,Não,0,3,610,1,Sim
+16,36,F,Casada,Salvador,5800,Enfermeira,20,4200,590,3,Sim,2,1,670,0,Não
+17,25,M,Solteiro,Florianópolis,3200,Desenvolvedor,5,1800,210,1,Não,0,1,570,0,Sim
+18,50,M,Casado,Recife,13000,Arquiteto,66,9000,1500,4,Sim,4,0,830,0,Não
+19,27,F,Solteira,Fortaleza,3900,Marketing,7,2300,270,2,Sim,1,2,600,1,Sim
+20,39,F,Casada,Curitiba,7200,Gerente,28,4800,810,3,Sim,2,0,720,0,Não
+21,32,M,Solteiro,São Paulo,4800,Consultor,11,3000,380,2,Não,0,4,590,2,Sim
+22,44,F,Casada,Rio de Janeiro,10500,Diretora,45,7200,1100,4,Sim,3,0,770,0,Não
+23,29,M,Solteiro,Belo Horizonte,3600,Vendedor,9,2000,240,1,Não,0,3,580,1,Sim
+24,52,M,Casado,Porto Alegre,14000,Engenheiro,72,9500,1700,5,Sim,4,0,840,0,Não
+25,26,F,Solteira,Brasília,3400,Assistente,4,1600,190,1,Não,0,2,560,0,Sim
+26,37,M,Casado,Salvador,6300,Coordenador,22,4500,680,3,Sim,2,0,700,0,Não
+27,24,F,Solteira,Florianópolis,2900,Recepcionista,3,1200,140,1,Não,0,1,550,0,Sim
+28,48,F,Divorciada,Recife,9800,Gerente,51,6800,920,3,Sim,3,0,750,0,Não
+29,31,M,Solteiro,Fortaleza,4100,Designer,10,2400,290,2,Sim,1,2,610,1,Sim
+30,43,M,Casado,Curitiba,11500,Manager,39,7800,1250,4,Sim,3,0,780,0,Não
+31,34,F,Casada,São Paulo,5400,Analista,16,3800,520,2,Sim,1,0,680,0,Não
+32,46,M,Casado,Rio de Janeiro,12500,Diretor,58,8500,1400,4,Sim,4,0,810,0,Não
+33,21,F,Solteira,Belo Horizonte,2300,Estudante,1,600,100,1,Não,0,3,530,0,Sim
+34,40,F,Casada,Porto Alegre,8900,Medica,33,5800,750,3,Sim,2,0,730,0,Não
+35,28,M,Solteiro,Brasília,3700,Programador,7,2100,260,2,Não,0,4,570,2,Sim
+36,49,M,Casado,Salvador,13500,Executivo,63,9200,1600,5,Sim,4,0,820,0,Não
+37,30,F,Solteira,Florianópolis,4400,Enfermeira,13,2700,350,2,Sim,1,1,640,0,Não
+38,25,M,Solteiro,Recife,3100,Assistente,4,1400,170,1,Não,0,2,560,1,Sim
+39,51,F,Casada,Fortaleza,14500,Diretora,69,9800,1750,5,Sim,4,0,830,0,Não
+40,36,M,Casado,Curitiba,6700,Gerente,25,4600,710,3,Sim,2,0,710,0,Não
+41,33,F,Solteira,São Paulo,5000,Consultora,14,3300,410,2,Sim,1,0,670,0,Não
+42,45,M,Casado,Rio de Janeiro,11000,Arquiteto,41,7000,1050,4,Sim,3,0,760,0,Não
+43,27,M,Solteiro,Belo Horizonte,3300,Vendedor,6,1900,220,1,Não,0,3,560,1,Sim
+44,53,F,Divorciada,Porto Alegre,15500,Empresaria,75,10500,1900,5,Sim,4,0,850,0,Não
+45,32,M,Solteiro,Brasília,4600,Analista,10,2600,330,2,Não,0,4,590,2,Sim
+46,38,F,Casada,Salvador,7100,Coordenadora,27,4900,780,3,Sim,2,0,720,0,Não
+47,26,F,Solteira,Florianópolis,3500,Designer,5,1700,200,1,Não,0,1,570,0,Sim
+48,47,M,Casado,Recife,10200,Gerente,49,7300,1150,4,Sim,3,0,770,0,Não
+49,29,M,Solteiro,Fortaleza,4000,Marketing,8,2250,280,2,Sim,1,2,600,1,Sim
+50,41,F,Casada,Curitiba,9400,Manager,35,6200,950,3,Sim,2,0,740,0,Não
