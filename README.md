@@ -24,7 +24,7 @@ Perfil do Cliente com Alto Risco de Churn
 - Comportamento: Atrasos frequentes e baixo score (<700)
 
 Fatores Críticos
-1. Tempo como cliente** (< 1 ano = alto risco)
+1. Tempo como cliente (< 1 ano = alto risco)
 2. Estado civil (solteiros = 100% dos cancelamentos)
 3. Uso de benefícios (não uso = 80% dos casos)
 4. Atrasos (presença = 100% dos cancelamentos)
