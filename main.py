@@ -6,8 +6,7 @@ import plotly.express as px
 
 df = pd.read_csv("Dados\clientes_ficticios.txt")
 
-# Análise inicial
-#print("Primeiras linhas:")
+#Análise inicial
 #print(df.head()) #Essa função demonstra as primeiras linhas da tabela
 
 # Análise de informações de colunas
