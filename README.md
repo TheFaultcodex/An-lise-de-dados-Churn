@@ -31,6 +31,5 @@ Fatores Críticos
 
 Tecnologias Utilizadas
 - Python (Pandas, Matplotlib)
-- Power BI (Dashboard interativo)
 
 Code By: João Manoel Neves
