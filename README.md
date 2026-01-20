@@ -1,35 +1,69 @@
-Análise de Churn - Cartão de Loja
+## Análise de Churn – Cartão de Loja
+Sobre o Projeto
 
-Sobre o Projeto:
-Este projeto se trata de uma análise preditiva de cancelamento de cartão de loja utilizando dados fictícios para identificar padrões comportamentais e demográficos que indicam risco de churn.
+Este projeto consiste em uma análise exploratória de churn (cancelamento de cartão de loja), utilizando dados fictícios, com o objetivo de identificar padrões comportamentais e demográficos associados ao cancelamento.
 
-Os dados utilizados foram adquiridos através da ferramenta de I.A DeepSeek
+O foco principal do projeto foi praticar análise de dados e visualização, explorando relações entre variáveis e interpretando resultados de forma descritiva.
+Os dados foram gerados com auxílio da ferramenta de IA DeepSeek e não representam um cenário real de mercado.
 
-Objetivo
-Identificar os principais fatores que levam ao cancelamento do cartão.
+## Objetivo
 
-Métricas Principais
-- Amostra: 50 clientes
-- Taxa de Churn: 40% (20 cancelamentos)
-- Período: Últimos 6 meses
+Analisar o perfil dos clientes que cancelaram o cartão da loja e identificar padrões recorrentes que aparecem com maior frequência nos casos de churn, servindo como exercício de leitura e interpretação de dados.
 
-Principais Descobertas
+## Base de Dados
 
-Perfil do Cliente com Alto Risco de Churn
-- Idade: 25-29 anos (55% dos cancelamentos)
-- Estado Civil: 100% solteiros
-- Renda: Até 4 salários mínimos
-- Tempo como Cliente: Menos de 1 ano (80%)
-- Uso de Benefícios: 80% não utilizam
-- Comportamento: Atrasos frequentes e baixo score (<700)
+Amostra: 50 clientes
 
-Fatores Críticos
-1. Tempo como cliente (< 1 ano = alto risco)
-2. Estado civil (solteiros = 100% dos cancelamentos)
-3. Uso de benefícios (não uso = 80% dos casos)
-4. Atrasos (presença = 100% dos cancelamentos)
+Período analisado: últimos 6 meses
 
-Tecnologias Utilizadas
-- Python (Pandas, Matplotlib)
+Taxa de churn: 40% (20 cancelamentos)
 
-Code By: João Manoel Neves
+## Dados: fictícios, criados para fins educacionais
+
+Principais Observações
+
+Com base na análise exploratória, observou-se que, dentro do conjunto analisado, os clientes que cancelaram o cartão apresentam, em geral, as seguintes características:
+
+Idade predominantemente entre 25 e 29 anos
+
+Estado civil majoritariamente solteiro
+
+Renda de até 4 salários mínimos
+
+Tempo como cliente inferior a 1 ano
+
+Baixa utilização dos benefícios do cartão
+
+Baixa frequência de compras e menor valor gasto mensal
+
+Presença de atrasos nos pagamentos nos últimos 6 meses
+
+Score de crédito inferior a 700
+
+Maior incidência de reclamações em comparação aos clientes ativos
+
+Esses padrões foram identificados por meio de análise visual, utilizando gráficos para comparar clientes que cancelaram e que mantiveram o cartão.
+
+## Tecnologias Utilizadas
+
+Python 3
+
+Pandas (manipulação de dados)
+
+Matplotlib / Plotly (visualização de dados)
+
+## Limitações do Projeto
+
+**Os dados utilizados são fictícios e determinísticos, criados apenas para fins de aprendizado.**
+
+A análise é exploratória, não preditiva.
+
+Não foram aplicados modelos estatísticos ou de machine learning.
+
+Os resultados não devem ser generalizados para cenários reais de negócio.
+
+Considerações Finais
+
+**Este projeto tem caráter introdutório e faz parte do meu processo de aprendizado em Análise de Dados, com foco em visualização, interpretação de padrões e comunicação de resultados.**
+
+Code by: João Manoel Neves
